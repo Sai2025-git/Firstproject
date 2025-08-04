@@ -1,3 +1,4 @@
+# ----------- Basic imports and downloads-----------
 ''' we have to first download the chromedrive(34 bit) to activate the path between the code and the website
 Then we have to install selerium to make our system adopt the code and present it as requested''' 
 import time
